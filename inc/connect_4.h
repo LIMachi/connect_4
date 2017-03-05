@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   connect_4.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hmartzol <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: hmartzol <hmartzol@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/02/27 10:28:10 by hmartzol          #+#    #+#             */
-/*   Updated: 2016/02/28 22:39:12 by hmartzol         ###   ########.fr       */
+/*   Updated: 2017/03/02 12:52:03 by hmartzol         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,6 @@
 # define MINIMUM_WIN_HEIGHT 400
 # define MINIMUM_GRID_WIDTH 7
 # define MINIMUM_GRID_HEIGHT 6
-# define BUFF_SIZE 12
 # define STONES_TO_CONNECT 4
 # define MAX_TICK 100000
 
